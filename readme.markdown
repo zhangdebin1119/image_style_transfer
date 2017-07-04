@@ -1,6 +1,11 @@
 
 ### image style transfer in tensorflow，图片风格转换
-
+改自https://github.com/chengjunwen/image_style_transfer
+我的环境：
+1.python 2.7.5
+2.tensorflow 1.1.0
+运行 python image_style_transfer.py;
+转换后的图片：./result/
 requirement:   
 
 1. tensorflow  
