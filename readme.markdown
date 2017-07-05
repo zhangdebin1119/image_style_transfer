@@ -4,6 +4,9 @@
 我的环境：
 1.python 2.7.5
 2.tensorflow 1.1.0
+##download data.tar.gz
+http://pan.baidu.com/s/1nvhvbXf
+tar -zxvf data.tar.gz
 运行 python image_style_transfer.py;
 转换后的图片：./result/
 requirement:   
