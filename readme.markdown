@@ -4,6 +4,7 @@
 我的环境：
 1.python 2.7.5
 2.tensorflow 1.1.0
+
 ##download data.tar.gz
 http://pan.baidu.com/s/1nvhvbXf
 tar -zxvf data.tar.gz
